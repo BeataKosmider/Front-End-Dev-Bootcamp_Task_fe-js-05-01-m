@@ -1,9 +1,7 @@
-# Lekcja 4
-## Zadanie 1 - pro
-Stwórz funkcję `createButton` tworzącą element `<button>` o identyfikatorze `"super-button"`, dowolnej nazwie w środku i dodaj go do elementu `<body>`. Funkcja powinna także zwracać tego buttona. Następnie stwórz funkcję `openAlert`, która będzie uruchamiała wbudowaną funkcję `window.alert` z tekstem `"super"`. Funkcja `openAlert` powinna zostać wywołana w momencie kliknięcia na utworzony przycisk `"super-button"`.
+# 5.1
 
-Przykładowy input:
-Brak
+Przygotuj bazową strukturę projektu, która zawierać powinna:
 
-Przykładowy output:
-Element `<button id="super-button">` wraz z pozostałymi założeniami
+- Plik index.html z poprawną strukturą
+- Katalog `js`, który będzie przechowywał pliki JS, a następnie utwórz bazowy plik `main.js`
+- Katalog `css`, który będzie przechowywał pliki CSS, a następnie utwórz bazowy plik `main.css`
