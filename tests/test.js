@@ -1,11 +1,4 @@
 const fs = require("fs");
-// const {
-//   toHaveClass,
-//   toHaveAttribute,
-//   toHaveStyle,
-// } = require("@testing-library/jest-dom/matchers");
-
-// expect.extend({ toHaveClass, toHaveAttribute, toHaveStyle });
 
 describe("W folderze root", () => {
   it("powinien byc index.html", async () => {
