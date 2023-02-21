@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="3" failures="0" errors="0" time="0.133">
+  <testsuite name="W folderze root" errors="0" failures="0" skipped="0" timestamp="2023-02-21T14:40:38" time="0.129" tests="3">
+    <testcase classname="W folderze root powinien byc index.html" name="W folderze root powinien byc index.html" time="0.001">
+    </testcase>
+    <testcase classname="W folderze root powinien byc css/main.css" name="W folderze root powinien byc css/main.css" time="0">
+    </testcase>
+    <testcase classname="W folderze root powinien byc js/main.js" name="W folderze root powinien byc js/main.js" time="0">
+    </testcase>
+  </testsuite>
+</testsuites>
