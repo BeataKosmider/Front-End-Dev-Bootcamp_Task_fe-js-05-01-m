@@ -1,3 +1,5 @@
+Task performed during Front-End Developer Bootcamp
+
 # 5.1
 
 Przygotuj bazową strukturę projektu, która zawierać powinna:
